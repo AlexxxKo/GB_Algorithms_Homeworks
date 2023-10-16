@@ -1,4 +1,4 @@
-package Homework03;
+package Homework04;
 
 /**
  * Хэш-таблица
